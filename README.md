@@ -10,7 +10,7 @@ the genome-wide regulatory role of this complex this reading list will likely sl
 ###Structure of chromatin
 Papers in this section are based around understanding the physical structure of chromatin.
 
-1. [Crystal structure of the nucleosome core particle at 2.8 A resolution](http://www.ncbi.nlm.nih.gov/pubmed/9305837) 
+~~1. [Crystal structure of the nucleosome core particle at 2.8 A resolution](http://www.ncbi.nlm.nih.gov/pubmed/9305837)~~
 2. [Organization of the Higher-Order Chromatin Loop: Specific DNA Attachment Sites on Nuclear Scaffold](http://www.ncbi.nlm.nih.gov/pubmed/6091913)
 3. [Involvement of HISTONE H1 in the Organization of the Nucleosome and of the Salt-Dependent Superstructures of Chromatin](http://www.ncbi.nlm.nih.gov/pubmed/387806)
 4. [Position effect variegation in Drosophila is associated with an altered chromatin structure](http://www.ncbi.nlm.nih.gov/pubmed/7758950)
@@ -29,14 +29,14 @@ In this group of papers we will look at what DNA methylation is, how this modifi
 Here we will study how post-translational modifications to histone proteins regulate many 
    cellular processes. 
    
-1. [High-Resolution Profiling of Histone Methylations in the Human Genome](http://www.ncbi.nlm.nih.gov/pubmed/17512414)
-2. [Distinct and predictive chromatin signatures of transcriptional promoters and enhancers in the human genome](http://www.ncbi.nlm.nih.gov/pubmed/17277777)
+~~1. [High-Resolution Profiling of Histone Methylations in the Human Genome](http://www.ncbi.nlm.nih.gov/pubmed/17512414)~~
+~~2. [Distinct and predictive chromatin signatures of transcriptional promoters and enhancers in the human genome](http://www.ncbi.nlm.nih.gov/pubmed/17277777)~~
 3. [Genome-wide maps of chromatin state in pluripotent and lineage-committed cells](http://www.ncbi.nlm.nih.gov/pubmed/17603471)
 4. [A Bivalent Chromatin Structure Marks Key Developmental Genes in Embryonic Stem Cells](http://www.ncbi.nlm.nih.gov/pubmed/16630819)
    
 ###Chromatin remodeling
-1. [Nucleosome mobilization catalysed by the yeast SWI/SNF complex](http://www.ncbi.nlm.nih.gov/pubmed/10466730)
-2. [Repressive LTR Nucleosome Positioning by the BAF Complex Is Required for HIV Latency](http://www.ncbi.nlm.nih.gov/pubmed/22140357)
+~~1. [Nucleosome mobilization catalysed by the yeast SWI/SNF complex](http://www.ncbi.nlm.nih.gov/pubmed/10466730)~~
+~~2. [Repressive LTR Nucleosome Positioning by the BAF Complex Is Required for HIV Latency](http://www.ncbi.nlm.nih.gov/pubmed/22140357)~~
    
 ###Other Topics
 This is our catch-all category for things that don't fit in above. We'll look at papers on 
