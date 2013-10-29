@@ -8,7 +8,7 @@ state of the field. As my interests focus on chromatin remodeling and the SWI/SN
 the genome-wide regulatory role of this complex this reading list will likely slant in that direction. 
 
 ###Structure of chromatin
-   Papers in this section are based around understanding the physical structure of chromatin.
+Papers in this section are based around understanding the physical structure of chromatin.
 1. [Crystal structure of the nucleosome core particle at 2.8 A resolution](http://www.ncbi.nlm.nih.gov/pubmed/9305837) 
 2. [Organization of the Higher-Order Chromatin Loop: Specific DNA Attachment Sites on Nuclear Scaffold](http://www.ncbi.nlm.nih.gov/pubmed/6091913)
 3. [Involvement of HISTONE H1 in the Organization of the Nucleosome and of the Salt-Dependent Superstructures of Chromatin](http://www.ncbi.nlm.nih.gov/pubmed/387806)
