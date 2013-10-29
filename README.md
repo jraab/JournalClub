@@ -41,4 +41,5 @@ Here we will study how post-translational modifications to histone proteins regu
 ###Other Topics
 This is our catch-all category for things that don't fit in above. We'll look at papers on 
    long non-coding RNAs and epigenetic roles in disease. 
+   
 1. [Chromatin signature reveals more than a thousand highly conserved, large non-coding RNAs in mammals](http://www.ncbi.nlm.nih.gov/pubmed/19182780)
