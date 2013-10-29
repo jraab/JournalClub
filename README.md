@@ -11,13 +11,9 @@ the genome-wide regulatory role of this complex this reading list will likely sl
 Papers in this section are based around understanding the physical structure of chromatin.
 
 1. [Crystal structure of the nucleosome core particle at 2.8 A resolution](http://www.ncbi.nlm.nih.gov/pubmed/9305837) 
-
 2. [Organization of the Higher-Order Chromatin Loop: Specific DNA Attachment Sites on Nuclear Scaffold](http://www.ncbi.nlm.nih.gov/pubmed/6091913)
-
 3. [Involvement of HISTONE H1 in the Organization of the Nucleosome and of the Salt-Dependent Superstructures of Chromatin](http://www.ncbi.nlm.nih.gov/pubmed/387806)
-
 4. [Position effect variegation in Drosophila is associated with an altered chromatin structure](http://www.ncbi.nlm.nih.gov/pubmed/7758950)
-
 5. [The 5' ends of Drosophila heat shock genes in chromatin are hypersensitive to DNase I](http://www.ncbi.nlm.nih.gov/pubmed/6774262)
    
 ###DNA Methylation
