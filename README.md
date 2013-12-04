@@ -20,7 +20,7 @@ Papers in this section are based around understanding the physical structure of 
 In this group of papers we will look at what DNA methylation is, how this modification is
    added and removed from DNA, and what effect this has on gene regulation. 
    
-1. [A fraction of the mouse genome that is derived from islands of nonmethylated, CpG-rich DNA](http://www.ncbi.nlm.nih.gov/pubmed/2981636)     
+~~1. [A fraction of the mouse genome that is derived from islands of nonmethylated, CpG-rich DNA](http://www.ncbi.nlm.nih.gov/pubmed/2981636) ~~    
 2. [Human DNA methylomes at base resolution show widespread epigenomic differences](http://www.ncbi.nlm.nih.gov/pubmed/19829295)    
 3. [The human colon cancer methylome shows similar hypo- and hypermethylation at conserved tissue-specific CpG island shores](http://www.ncbi.nlm.nih.gov/pubmed/19151715)   
 4. [The nuclear DNA base, 5-hydroxymethylcytosine is present in brain and enriched in Purkinje neurons](http://www.ncbi.nlm.nih.gov/pubmed/19372393)    
