@@ -37,9 +37,13 @@ Here we will study how post-translational modifications to histone proteins regu
 ###Chromatin remodeling
 ~~1. [Nucleosome mobilization catalysed by the yeast SWI/SNF complex](http://www.ncbi.nlm.nih.gov/pubmed/10466730)~~   
 ~~2. [Repressive LTR Nucleosome Positioning by the BAF Complex Is Required for HIV Latency](http://www.ncbi.nlm.nih.gov/pubmed/22140357)~~    
-~~3. [CARM1 Methylates Chromatin Remodeling Factor BAF155 to Enhance Tumor Progression and Metastasis](http://www.sciencedirect.com/science/article/pii/S1535610813005369)~~
+
   
 ###Other Topics
 This is our catch-all category for things that don't fit in above. We'll look at papers on long non-coding RNAs and epigenetic roles in disease. 
 
 1. [Chromatin signature reveals more than a thousand highly conserved, large non-coding RNAs in mammals](http://www.ncbi.nlm.nih.gov/pubmed/19182780)   
+
+###Current Papers
+1. [Reorganization of Enhancer Patterns in Transition from Naive to Primed Pluripotency](http://www.sciencedirect.com/science/article/pii/S1934590914001404)  
+2. ~~3. [CARM1 Methylates Chromatin Remodeling Factor BAF155 to Enhance Tumor Progression and Metastasis](http://www.sciencedirect.com/science/article/pii/S1535610813005369)~~
